@@ -23,7 +23,7 @@
             <ul>
                 <li>HTML y CSS (con Bootstrap)</li>
                 <li>Javascript</li>
-                <li>Librerías (Validate.JS para controles de datos, Sweet alert para ventanas de alerta y File-Saver para la exportación a Excel</li>
+                <li>Librerías (Validate.JS para controles de datos, Sweet alert para ventanas de alerta y File-Saver para la exportación a Excel)</li>
             </ul>
     </ul>
     <br><br>
