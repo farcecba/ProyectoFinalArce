@@ -17,7 +17,7 @@
             <div>Infotime es una empresa ficticia que provee software de gestión para pequeños negocios.</div>
         </li>
         <li><b>Proyecto</b>
-            <div>En este repositorio en particular, se presenta un mini sisema que permite la parametrización de X cuentas contables, pudiendo registrar asientos que luego podrán ser exportados a una hoja de cálculo. Para ello, se sirve de una lógica orientada al cumplimiento de condiciones, valiéndose de diversas funciones que impidan el ingreso de datos erróneos o eliminación de existentes con vínculos ya creados, mostrando los impactos dinámicamente en el DOM y obteniendo un archivo base para utilizar en Excel.<br>
+            <div>En este repositorio en particular, se presenta un mini sistema que permite la parametrización de X cuentas contables, pudiendo registrar asientos que luego podrán ser exportados a una hoja de cálculo. Para ello, se sirve de una lógica orientada al cumplimiento de condiciones, valiéndose de diversas funciones que impidan el ingreso de datos erróneos o eliminación de existentes con vínculos ya creados, mostrando los impactos dinámicamente en el DOM y obteniendo un archivo base para utilizar en Excel.<br>
                 Como parte del relato, se menciona que esta versión básica es la opción de uso gratuito.
         <li><b>Conocimientos aplicados</b>
             <ul>
