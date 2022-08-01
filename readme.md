@@ -21,7 +21,7 @@
                 Como parte del relato, se menciona que esta versión básica es la opción de uso gratuito.
         <li><b>Conocimientos aplicados</b>
             <ul>
-                <li>HTML y CSS (con Boostrap)</li>
+                <li>HTML y CSS (con Bootstrap)</li>
                 <li>Javascript</li>
                 <li>Librerías (Validate.JS para controles de datos, Sweet alert para ventanas de alerta y File-Saver para la exportación a Excel</li>
             </ul>
